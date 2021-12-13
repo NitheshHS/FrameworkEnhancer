@@ -1,0 +1,10 @@
+
+Day1:- 
+1. While designing page object models for constructor pass two parameters
+-> webdriver driver
+-> ExtentTest test
+-> Enhance:- 
+	to write logs in business logic 
+	made a static import for info method from ExtentManager class
+
+Day2:- 
