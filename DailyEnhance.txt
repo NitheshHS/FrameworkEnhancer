@@ -7,4 +7,11 @@ Day1:-
 	to write logs in business logic 
 	made a static import for info method from ExtentManager class
 
-Day2:- 
+Day2:- Database connection utility
+required dependency:-
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.26</version>
+</dependency>
